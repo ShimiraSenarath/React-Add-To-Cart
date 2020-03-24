@@ -1,0 +1,27 @@
+.btn-primary {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    color: #212529;
+    background-color: #f3960a;
+    border-color: #f3960a;
+    margin-right: 5px;
+}
+.btn-warning {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    color: #212529;
+    background-color: #304be4;
+    border-color: #304be4;
+}
+.btn-primary:hover {
+    color: #ffffff;
+    background-color: #db890df1;
+    border-color: #db890df1;
+}
+.btn-warning:hover {
+    color: #ffffff;
+    background-color: #111eca;
+    border-color: #111eca;
+}
